@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 101-locked_class.py
-# yabets kifle
 """Defines a locked class."""
 
 
