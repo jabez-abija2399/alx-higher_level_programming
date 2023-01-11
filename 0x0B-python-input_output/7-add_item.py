@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 7-add_item.py
-# Yabets kifle
 """Add all arguments to a Python list and save them to a file."""
 import sys
 
